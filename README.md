@@ -1,6 +1,6 @@
-# How to localize the drag and drop window text in treegrid?
+# How to Localize the Drag and Drop Window Text in WPF / UWP TreeGrid?
 
-This example illustrates how to localize the drag and drop window text in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) and [UWP TreeGrid](https://www.syncfusion.com/uwp-ui-controls/treegrid).
+This example illustrates how to localize the drag and drop window text in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) and [UWP TreeGrid](https://www.syncfusion.com/uwp-ui-controls/treegrid) (SfTreeGrid).
 
 To localize the TreeGrid, drag and drop window based on CurrentUICulture using resource files, follow the below steps.
 
