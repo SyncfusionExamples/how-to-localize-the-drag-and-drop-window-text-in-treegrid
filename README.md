@@ -8,7 +8,7 @@ To localize the TreeGrid, drag and drop window based on **CurrentUICulture** usi
 
 1. Create new folder and named as **Resources** in your application. 
 
-2. Add the default resource file of TreeGrid into **Resources** folder. You can download the Syncfusion.SfGrid.WPF.resx [here](https://www.syncfusion.com/downloads/support/directtrac/general/ze/Syncfusion.SfGrid.WPF2020296999.zip).
+2. Add the default resource file of TreeGrid into **Resources** folder. You can download the Syncfusion.SfGrid.WPF.resx [here](https://github.com/SyncfusionExamples/how-to-localize-the-drag-and-drop-window-text-in-treegrid/blob/ES-975464/WPF/SfTreeGridDemo/Resources/Syncfusion.SfGrid.WPF.resx).
 
 ![Added the default resource file](AddedDefaultResourceFileInWPF.png)
 
@@ -50,6 +50,6 @@ To localize the TreeGrid, drag and drop window based on **CurrentUICulture** usi
 
 ![Added the name value pair in resource file](ResourceFileImageUWP.png)
 
-You can get the TreeGrid's key from default resource [Syncfusion.SfGrid.UWP.Resources.resw](http://www.syncfusion.com/downloads/support/directtrac/general/ze/Syncfusion.SfGrid.UWP.Resources-531431521.zip).
+You can get the TreeGrid's key from default resource [Syncfusion.SfGrid.UWP.Resources.resw](https://github.com/SyncfusionExamples/how-to-localize-the-drag-and-drop-window-text-in-treegrid/blob/ES-975464/UWP/Resources/Syncfusion.SfGrid.UWP.Resources.resw).
 
 ![Localization applied to TreeGrid Drag and Drop](TreeGridWithLocalizationAppliedUWP.png)
